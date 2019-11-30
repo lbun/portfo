@@ -50,7 +50,7 @@ mccabe==0.6.1
 mechanize==0.4.2
 mock==3.0.5
 multidict==4.5.2
-nltk==3.4
+nltk==3.4.5
 numpy==1.16.4
 pandas==0.24.2
 parso==0.4.0
